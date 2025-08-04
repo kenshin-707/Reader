@@ -1,20 +1,20 @@
-# 🧠 Reader: Voice-Based News Assistant 🔐🗣️
+# Reader: Voice-Based News Assistant 
 
 > Your personalized AI voice assistant for news – just say it, hear it, and stay informed.
 
 ---
 
-## 📌 One-Line Problem Statement
+## One-Line Problem Statement
 People often struggle to find **relevant** and **easy-to-understand** news — this assistant delivers **only what they ask for**, in **summarized form**, and **reads it out loud**.
 
 ---
 
-## 🎯 Expected Outcome
+## Expected Outcome
 A voice-interactive assistant that fetches **real-time news**, summarizes it, and delivers it **through speech**, based on **user commands**.
 
 ---
 
-## 👤 Who Are the Users?
+## Who Are the Users?
 
 - Students and researchers 
 - Journalists & analysts needing quick insights  
@@ -23,7 +23,7 @@ A voice-interactive assistant that fetches **real-time news**, summarizes it, an
 
 ---
 
-## 💥 What Problem Does It Solve?
+## What Problem Does It Solve?
 
 - Cuts through overwhelming and jargon-heavy news  
 - Saves time by summarizing key points  
@@ -32,7 +32,7 @@ A voice-interactive assistant that fetches **real-time news**, summarizes it, an
 
 ---
 
-## 🔍 How’s It Different?
+## How’s It Different?
 
 ✅ Summarized + Category-Specific Cyber News  
 ✅ Hands-free Voice Interface  
@@ -41,18 +41,18 @@ A voice-interactive assistant that fetches **real-time news**, summarizes it, an
 
 ---
 
-## 🛠️ Features (Demo Scope)
+## 🛠Features (Demo Scope)
 
-- 🎙️ Speech recognition for user commands  
-- 📰 News scraping from trusted sources  
-- ✂️ AI-powered summarization (T5 or BART)  
-- 🔊 Text-to-Speech output (gTTS / pyttsx3 / cloned voice)  
-- 🧩 Simple GUI with voice button and keyword input  
-- 🗃️ MongoDB integration for storing news & user preferences
+-  Speech recognition for user commands  
+-  News scraping from trusted sources  
+-  AI-powered summarization (T5 or BART)  
+-  Text-to-Speech output (gTTS / pyttsx3 / cloned voice)  
+-  Simple GUI with voice button and keyword input  
+-  MongoDB integration for storing news & user preferences
 
 ---
 
-## 🧑‍💻 Tech Stack
+##  Tech Stack
 
 | Layer       | Tools/Frameworks                     |
 |------------|---------------------------------------|
@@ -65,7 +65,7 @@ A voice-interactive assistant that fetches **real-time news**, summarizes it, an
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 ```bash
 cybersentinel/
