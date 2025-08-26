@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cybersecurity News Assistant</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #0f172a; color: #f8fafc; text-align: center; padding: 40px; }
+    select, button { padding: 10px; margin: 10px; border-radius: 8px; border: none; font-size: 16px; }
+    button { background: #3b82f6; color: white; cursor: pointer; }
+    button:hover { background: #2563eb; }
+    ul { list-style: none; padding: 0; margin-top: 20px; }
+    li { background: #1e293b; margin: 10px auto; padding: 15px; border-radius: 8px; max-width: 500px; }
+    a { color: #38bdf8; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>🛡️ Cybersecurity News Assistant</h1>
+  
+  <select id="siteSelect">
+    <option value="thehackernews">The Hacker News</option>
+    <option value="cybersecuritynews">Cybersecurity News</option>
+  </select>
+  <button onclick="scrapeNews()">Get News</button>
+  
+  <ul id="newsList"></ul>
+  
+  <audio id="newsAudio" controls style="margin-top:20px; display:none;"></audio>
+  
+  <script>
+    async function scrapeNews() {
+      const site = document.getElementById("siteSelect").value;
+      const response = await fetch("http://127.0.0.1:5000/scrape?site=" + site);
+      const data = await response.json();
+      
+      // Display news
+      const list = document.getElementById("newsList");
+      list.innerHTML = "";
+      data.news.forEach(item => {
+        const li = document.createElement("li");
+        li.innerHTML = `<a href="${item.link}" target="_blank">${item.title}</a>`;
+        list.appendChild(li);
+      });
+      
+      // Play audio
+      const audio = document.getElementById("newsAudio");
+      audio.src = "http://127.0.0.1:5000/audio";
+      audio.style.display = "block";
+      audio.play();
+    }
+  </script>
+</body>
+</html>
