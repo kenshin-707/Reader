@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-102742282-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-102742282-2');
+</script>
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Energy Archives - Hard News</title>
+	<link rel="canonical" href="https://www.hardnewsmedia.com/category/oil-and-gas/" />
+	<link rel="next" href="https://www.hardnewsmedia.com/category/oil-and-gas/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Energy Archives - Hard News" />
+	<meta property="og:description" content="Reporting, analysis, data and backgrounders on the ups and downs of the oil, gas, coal and renewable industry all over the world" />
+	<meta property="og:url" content="https://www.hardnewsmedia.com/category/oil-and-gas/" />
+	<meta property="og:site_name" content="Hard News" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://www.hardnewsmedia.com/category/oil-and-gas/","url":"https://www.hardnewsmedia.com/category/oil-and-gas/","name":"Energy Archives - Hard News","isPartOf":{"@id":"https://www.hardnewsmedia.com/#website"},"primaryImageOfPage":{"@id":"https://www.hardnewsmedia.com/category/oil-and-gas/#primaryimage"},"image":{"@id":"https://www.hardnewsmedia.com/category/oil-and-gas/#primaryimage"},"thumbnailUrl":"https://www.hardnewsmedia.com/wp-content/uploads/2025/07/olav-ahrens-rotne-4Ennrbj1svk-unsplash-scaled.jpg","breadcrumb":{"@id":"https://www.hardnewsmedia.com/category/oil-and-gas/#breadcrumb"},"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.hardnewsmedia.com/category/oil-and-gas/#primaryimage","url":"https://www.hardnewsmedia.com/wp-content/uploads/2025/07/olav-ahrens-rotne-4Ennrbj1svk-unsplash-scaled.jpg","contentUrl":"https://www.hardnewsmedia.com/wp-content/uploads/2025/07/olav-ahrens-rotne-4Ennrbj1svk-unsplash-scaled.jpg","width":2048,"height":1365,"caption":"A new platform aims to cultivate “collective intelligence” and drive holistic progress towards the SDGs. Photo by Olav Ahrens Røtne on Unsplash"},{"@type":"BreadcrumbList","@id":"https://www.hardnewsmedia.com/category/oil-and-gas/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.hardnewsmedia.com/"},{"@type":"ListItem","position":2,"name":"Energy"}]},{"@type":"WebSite","@id":"https://www.hardnewsmedia.com/#website","url":"https://www.hardnewsmedia.com/","name":"Hard News","description":"","publisher":{"@id":"https://www.hardnewsmedia.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.hardnewsmedia.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.hardnewsmedia.com/#organization","name":"Hardnews","url":"https://www.hardnewsmedia.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.hardnewsmedia.com/#/schema/logo/image/","url":"https://www.hardnewsmedia.com/wp-content/uploads/2020/07/HARDNEWS-LOGO.png","contentUrl":"https://www.hardnewsmedia.com/wp-content/uploads/2020/07/HARDNEWS-LOGO.png","width":1978,"height":368,"caption":"Hardnews"},"image":{"@id":"https://www.hardnewsmedia.com/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.hardnewsmedia.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Hard News &raquo; Energy Category Feed" href="https://www.hardnewsmedia.com/category/oil-and-gas/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.hardnewsmedia.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='wgs2-css' href='https://www.hardnewsmedia.com/wp-content/plugins/wp-google-search/wgs2.css?ver=6.8.2' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.hardnewsmedia.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='co-authors-plus-coauthors-style-inline-css' type='text/css'>
+.wp-block-co-authors-plus-coauthors.is-layout-flow [class*=wp-block-co-authors-plus]{display:inline}
+
+</style>
+<style id='co-authors-plus-avatar-style-inline-css' type='text/css'>
+.wp-block-co-authors-plus-avatar :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-avatar :where(img){vertical-align:middle}.wp-block-co-authors-plus-avatar:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-avatar.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<style id='co-authors-plus-image-style-inline-css' type='text/css'>
+.wp-block-co-authors-plus-image{margin-bottom:0}.wp-block-co-authors-plus-image :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-image :where(img){vertical-align:middle}.wp-block-co-authors-plus-image:is(.alignfull,.alignwide) :where(img){width:100%}.wp-block-co-authors-plus-image:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-image.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://www.hardnewsmedia.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://www.hardnewsmedia.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='awsm-ead-public-css' href='https://www.hardnewsmedia.com/wp-content/plugins/embed-any-document/css/embed-public.min.css?ver=2.7.6' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='zurlcustom-style-css' href='https://www.hardnewsmedia.com/wp-content/plugins/z-url-preview/zurlplugin.css?ver=6.8.2' type='text/css' media='all' />
+<style id='zurlcustom-style-inline-css' type='text/css'>
+#at_zurlpreview img {
+				width: 100%;
+				max-width:100%;
+ 			}
+</style>
+<link rel='stylesheet' id='hn-bootstrap-css' href='https://www.hardnewsmedia.com/wp-content/themes/hardnews-theme/css/bootstrap.min.css?ver=/home/wp_6jbbfm/hardnewsmedia.com/wp-content/themes/hardnews-theme/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hn-font-awesome-css' href='https://www.hardnewsmedia.com/wp-content/themes/hardnews-theme/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=/home/wp_6jbbfm/hardnewsmedia.com/wp-content/themes/hardnews-theme/css/font-awesome-4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hn-google-fonts-css' href='https://fonts.googleapis.com/css?family=Montserrat%7CCardo&#038;ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css' href='https://www.hardnewsmedia.com/wp-content/themes/hardnews-theme/style.css?ver=1596509893' type='text/css' media='all' />
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<link rel="https://api.w.org/" href="https://www.hardnewsmedia.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.hardnewsmedia.com/wp-json/wp/v2/categories/4" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hardnewsmedia.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.2" />
+<link rel="icon" href="https://www.hardnewsmedia.com/wp-content/uploads/2020/07/cropped-HARDNEWS-LOGO-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.hardnewsmedia.com/wp-content/uploads/2020/07/cropped-HARDNEWS-LOGO-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.hardnewsmedia.com/wp-content/uploads/2020/07/cropped-HARDNEWS-LOGO-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.hardnewsmedia.com/wp-content/uploads/2020/07/cropped-HARDNEWS-LOGO-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.container-fluid > .navbar-header {
+	z-index: 100;
+	position: relative;
+}
+.page-id-2190 #wgs_wrapper_id {
+	width: 60% !important;
+	margin: 0 auto;
+	display: block;
+	margin-top: 60px;
+}		</style>
+		</head>
+<body class="archive category category-oil-and-gas category-4 wp-theme-hardnews-theme" >
+<div id="fb-root"></div>
+<nav class="navbar navbar-default no-border" data-spy="affix" data-offset-top="90">
+  <div class="container-fluid line">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <a class="navbar-brand-big" href="https://www.hardnewsmedia.com"> <img src="https://www.hardnewsmedia.com/wp-content/uploads/2020/07/HARDNEWS-LOGO-1.png" alt="Hard News">
+      </a>
+      <a class="navbar-brand hidden" href="https://www.hardnewsmedia.com"> <img src="https://www.hardnewsmedia.com/wp-content/themes/hardnews-theme/images/logo_sticky.png" alt=""> </a>
+	  </div>
+    <div class="navbar-right">
+	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><i class="fa fa-bars"></i> </button>
+        <form class="navbar-form clearfix" role="search">
+				<div class="pull-right social red-text">
+					<span class="social-icons">
+						<a href="https://www.facebook.com/HNFP.IN/"><i class="fa fa-facebook fa-outline"></i></a>
+						<a href="https://twitter.com/hnfp_in"><i class="fa fa-twitter fa-outline"></i></a>
+						<a href="whatsapp://send?text=https://www.hardnewsmedia.com" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
+					</span>
+					<a href=""><i class="fa fa-search"></i></a>
+					<div class="wgs_wrapper" id="wgs_widget_wrapper_id"><div class="gcse-searchbox-only" data-resultsUrl="https://www.hardnewsmedia.com/search_gcse/"></div></div>					<!--input type="text" name="s" class="search-query" placeholder="Search" /-->
+					<span class="hidden">
+						<span class="separator text-muted">Next Story</span>
+												<a href="https://www.hardnewsmedia.com/2025/07/his-voice-will-never-die-meri-awaaz-hi-pehchan-hai/" class="next-post text-muted"><strong>His Voice Will Never Die: Meri Awaaz Hi Pehchan Hai</strong></a>
+					</span>
+				</div>
+        </form>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse text-uppercase col-md-12 pull-left"><ul id="menu-connec" class="nav navbar-nav navbar-right"><li id="menu-item-275" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-275"><a title="Foreign Policy" href="https://www.hardnewsmedia.com/category/foreign-policy/">Foreign Policy</a></li>
+<li id="menu-item-811" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-811"><a title="Connectivity" href="https://www.hardnewsmedia.com/category/connectivity/">Connectivity</a></li>
+<li id="menu-item-276" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-276"><a title="Neighbourhood" href="https://www.hardnewsmedia.com/category/neighbourhood/">Neighbourhood</a></li>
+<li id="menu-item-277" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-277 active"><a title="Energy" href="https://www.hardnewsmedia.com/category/oil-and-gas/">Energy</a></li>
+<li id="menu-item-278" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-278"><a title="Defence" href="https://www.hardnewsmedia.com/category/defence/">Defence</a></li>
+<li id="menu-item-620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-620"><a title="India" href="https://www.hardnewsmedia.com/category/india/">India</a></li>
+<li id="menu-item-1381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1381"><a title="Hardnews Archives" href="http://archives.hardnewsmedia.com/search/node">Hardnews Archives</a></li>
+</ul></div>	</div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
+</nav>
+		<div class="container">
+		<h2 class="red-text top-buffer bottom-buffer"><strong>Energy</strong></h2>
+	</div>
+		<div class="container-fluid">
+		<div class="row">
+			<div id="posts-1819724815" data-target="#posts-1819724815 .row" data-url="https://www.hardnewsmedia.com/wp-admin/admin-ajax.php?action=posts_query&post_type=post&post_status=publish&posts_per_page=7&cat=4&style=grid-lg-post&id=posts-1819724815" class="top-buffer small">	
+					
+				<div class="col-md-8 no-pad-left  white-text bottom-buffer">
+			<a href="https://www.hardnewsmedia.com/2025/07/can-ai-offer-the-sdgs-a-lifeline/" class="overlay single-post-img card-img" style="background-image: url(https://www.hardnewsmedia.com/wp-content/uploads/2025/07/olav-ahrens-rotne-4Ennrbj1svk-unsplash-scaled.jpg);"></a>
+			<div class="card col-md-10 carousel-caption">
+				<h3 class="card-title "><a href="https://www.hardnewsmedia.com/2025/07/can-ai-offer-the-sdgs-a-lifeline/" rel="bookmark" title="Permanent Link to Can AI offer the SDGs a lifeline?">Can AI offer the SDGs a lifeline?</a></h3>
+				<div class="card-text">With the global sustainability agenda critically behind schedule, a new AI-powered platform offers a novel approach to accelerating progress</div>
+				<div class="media bottom-buffer">
+					<div class="media-left">
+						<a href="https://www.hardnewsmedia.com">
+							<img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' decoding='async'/>						</a>
+					</div>
+					<div class="media-body text-left">
+						<span class="media-heading"><a href="https://www.hardnewsmedia.com/author/360info/" title="Posts by 360info" rel="author">360info</a></span>
+						<div class="post-date">Jul 18</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+				
+				
+				
+				
+				
+				
+				<div class="col-md-4 top-border">
+					<div id="posts-571226918" data-target="#posts-571226918 .row" data-url="https://www.hardnewsmedia.com/wp-admin/admin-ajax.php?action=posts_query&post_type=post&post_status=publish&posts_per_page=6&cat=4&offset=1&style=grid1&id=posts-571226918" class="top-buffer small">	
+				<div class="pad-bot">
+				<h4 class="center"><a href="https://www.hardnewsmedia.com/2025/02/how-trumps-pursuit-of-cheap-oil-will-impact-indias-energy-security/" rel="bookmark" title="Permanent Link to How Trump’s pursuit of cheap oil will impact India’s energy security">How Trump’s pursuit of cheap oil will impact India’s energy security</a></h4>
+				<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/saswata-chaudhury-sanchit-s-agarwal/" title="Posts by Saswata Chaudhury" rel="author">Saswata Chaudhury</a></span>
+		</div>
+		
+				<div class="pad-bot">
+				<h4 class="center"><a href="https://www.hardnewsmedia.com/2025/01/can-nuclear-replace-coal-based-electricity-in-india/" rel="bookmark" title="Permanent Link to Can nuclear replace coal-based electricity in India?">Can nuclear replace coal-based electricity in India?</a></h4>
+				<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/k-ramanathan/" title="Posts by K Ramanathan" rel="author">K Ramanathan</a></span>
+		</div>
+		
+				<div class="pad-bot">
+				<h4 class="center"><a href="https://www.hardnewsmedia.com/2025/01/making-an-electric-car-battery-minus-china/" rel="bookmark" title="Permanent Link to Making an electric car battery, minus China">Making an electric car battery, minus China</a></h4>
+				<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/abhimanyu-singh-rana/" title="Posts by Abhimanyu Singh Rana" rel="author">Abhimanyu Singh Rana</a></span>
+		</div>
+		
+				<div class="pad-bot">
+				<h4 class="center"><a href="https://www.hardnewsmedia.com/2025/01/indias-road-to-net-zero-needs-a-renewable-energy-boost/" rel="bookmark" title="Permanent Link to India’s road to net zero needs a renewable energy boost">India’s road to net zero needs a renewable energy boost</a></h4>
+				<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/anandajit-goswami/" title="Posts by Anandajit Goswami" rel="author">Anandajit Goswami</a></span>
+		</div>
+		
+				<div class="pad-bot">
+				<h4 class="center"><a href="https://www.hardnewsmedia.com/2024/09/indias-clean-energy-transition-requires-a-delicate-balancing-act/" rel="bookmark" title="Permanent Link to India&#8217;s clean energy transition requires a delicate balancing act">India&#8217;s clean energy transition requires a delicate balancing act</a></h4>
+				<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/vaibhav-chowdhary/" title="Posts by Vaibhav Chowdhary" rel="author">Vaibhav Chowdhary</a></span>
+		</div>
+		
+				<div class="pad-bot">
+				<h4 class="center"><a href="https://www.hardnewsmedia.com/2024/08/trump-2-0-would-be-a-disaster-for-climate-policy/" rel="bookmark" title="Permanent Link to Trump 2.0 would be a disaster for climate policy">Trump 2.0 would be a disaster for climate policy</a></h4>
+				<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/amitabh-mattoo/" title="Posts by Amitabh Mattoo" rel="author">Amitabh Mattoo</a></span>
+		</div>
+		
+				</div>
+				
+		</div>
+		</div>
+			</div>
+</div>	<div class="container">
+	<section class="col-md-12 clearfix white-text">
+		<div id="posts-1669226021" data-target="#posts-1669226021 .row" data-url="https://www.hardnewsmedia.com/wp-admin/admin-ajax.php?action=posts_query&post_type=post&post_status=publish&posts_per_page=2&cat=4&offset=7&style=grid93&id=posts-1669226021">	
+		<div class='row'>
+				 
+		<div class="col-md-9 bottom-buffer white-text">
+			<a href="https://www.hardnewsmedia.com/2024/06/how-delhi-can-meet-its-energy-needs-amid-a-sizzling-summer/" class="card-img overlay " style="background-image:url(https://www.hardnewsmedia.com/wp-content/uploads/2024/06/Delhi-768x512.jpg);" rel="bookmark" title="How Delhi can meet its energy needs amid a sizzling summer"></a>
+                <div class="carousel-caption col-md-11">
+                        <h3 class="card-title col-md-12"><a href="https://www.hardnewsmedia.com/2024/06/how-delhi-can-meet-its-energy-needs-amid-a-sizzling-summer/" rel="bookmark" title="Permanent Link to How Delhi can meet its energy needs amid a sizzling summer">How Delhi can meet its energy needs amid a sizzling summer</a></h3>
+						<div class="card-text col-md-12">Securing cities from future heat effects requires a fictional reality which can become a future truth.</div>
+						<div class="media col-md-12">
+						  <div class="media-left">
+							<a href="https://www.hardnewsmedia.com">
+							   <img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' decoding='async'/>							</a>
+						  </div>
+						  <div class="media-body text-left">
+							<span class="media-heading"><a href="https://www.hardnewsmedia.com/author/360info/" title="Posts by 360info" rel="author">360info</a></span>
+							<div class="post-date">Jun 04</div>
+						  </div>
+					</div>
+                </div>
+			</div>
+										<div class="col-md-3 bottom-buffer white-text">
+			<a href="https://www.hardnewsmedia.com/2024/04/is-india-on-the-cusp-of-a-nuclear-energy-renaissance/" class="card-img overlay " style="background-image:url(https://www.hardnewsmedia.com/wp-content/uploads/2024/04/nuclear-768x513.jpg);" rel="bookmark" title="Is India on the cusp of a nuclear energy renaissance?"></a>
+                <div class="carousel-caption col-md-11">
+                        <h4 class="card-title col-md-12"><a href="https://www.hardnewsmedia.com/2024/04/is-india-on-the-cusp-of-a-nuclear-energy-renaissance/" rel="bookmark" title="Permanent Link to Is India on the cusp of a nuclear energy renaissance?">Is India on the cusp of a nuclear energy renaissance?</a></h4>
+						<div class="card-text col-md-12">Removing institutional bottlenecks will attract foreign and domestic participation in India’s nuclear energy programme.</div>
+						<div class="media col-md-12">
+						  <div class="media-left">
+							<a href="https://www.hardnewsmedia.com">
+							   <img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' decoding='async'/>							</a>
+						  </div>
+						  <div class="media-body text-left">
+							<span class="media-heading"><a href="https://www.hardnewsmedia.com/author/360info/" title="Posts by 360info" rel="author">360info</a></span>
+							<div class="post-date">Apr 12</div>
+						  </div>
+						</div>
+					</div>
+                </div>
+							</div>
+		</div>
+		    </section>
+</div>	<div class="container">
+	<section class="col-md-12 clearfix">
+				<div id="posts-1245612073" data-target="#posts-1245612073 .row" data-url="https://www.hardnewsmedia.com/wp-admin/admin-ajax.php?action=posts_query&post_type=post&post_status=publish&posts_per_page=3&cat=4&offset=9&style=grid3&id=posts-1245612073">	
+		<div class='row '><div class="col-sm-4 posts-query-article bottom-buffer">
+	<div class="card">
+		<a href="https://www.hardnewsmedia.com/2023/11/giving-transport-the-spark-it-needs/" class="card-img" style="background-image:url(https://www.hardnewsmedia.com/wp-content/uploads/2023/11/Transport-768x451.jpg);" rel="bookmark" title="Giving transport the spark it needs"></a>
+		<div class="card-block">
+			<h4 class="card-title red-text">
+				<a href="https://www.hardnewsmedia.com/2023/11/giving-transport-the-spark-it-needs/" rel="bookmark" title="Giving transport the spark it needs">Giving transport the spark it needs</a>
+			</h4>
+			<div class="card-text">By&nbsp;Suzannah Lyons, 360info Making the switch to more electric vehicles [&hellip;]</div>
+			<div class="media">
+				<div class="media-left">
+					<a href="https://www.hardnewsmedia.com">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' decoding='async'/>					</a>
+				</div>
+				<div class="media-body text-left">
+					<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/suzannah-lyons/" title="Posts by Suzannah Lyons" rel="author">Suzannah Lyons</a></span>
+					<div class="post-date">Nov 20</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-sm-4 posts-query-article bottom-buffer">
+	<div class="card">
+		<a href="https://www.hardnewsmedia.com/2023/11/will-gaza-jeopardise-indias-energy-resilience/" class="card-img" style="background-image:url(https://www.hardnewsmedia.com/wp-content/uploads/2023/11/Gaza-768x511.jpg);" rel="bookmark" title="Will Gaza jeopardise India&#8217;s energy resilience?"></a>
+		<div class="card-block">
+			<h4 class="card-title red-text">
+				<a href="https://www.hardnewsmedia.com/2023/11/will-gaza-jeopardise-indias-energy-resilience/" rel="bookmark" title="Will Gaza jeopardise India&#8217;s energy resilience?">Will Gaza jeopardise India&#8217;s energy resilience?</a>
+			</h4>
+			<div class="card-text">India relies heavily on oil from the Middle East. The [&hellip;]</div>
+			<div class="media">
+				<div class="media-left">
+					<a href="https://www.hardnewsmedia.com">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' decoding='async'/>					</a>
+				</div>
+				<div class="media-body text-left">
+					<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/saswata-chaudhury-sanchit-s-agarwal/" title="Posts by Saswata Chaudhury" rel="author">Saswata Chaudhury</a></span>
+					<div class="post-date">Nov 02</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-sm-4 posts-query-article bottom-buffer">
+	<div class="card">
+		<a href="https://www.hardnewsmedia.com/2023/10/indias-race-to-a-green-hydrogen-future/" class="card-img" style="background-image:url(https://www.hardnewsmedia.com/wp-content/uploads/2023/10/Green-H2-768x332.jpg);" rel="bookmark" title="India’s race to a green hydrogen future"></a>
+		<div class="card-block">
+			<h4 class="card-title red-text">
+				<a href="https://www.hardnewsmedia.com/2023/10/indias-race-to-a-green-hydrogen-future/" rel="bookmark" title="India’s race to a green hydrogen future">India’s race to a green hydrogen future</a>
+			</h4>
+			<div class="card-text">The march to a net zero future has received a [&hellip;]</div>
+			<div class="media">
+				<div class="media-left">
+					<a href="https://www.hardnewsmedia.com">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' decoding='async'/>					</a>
+				</div>
+				<div class="media-body text-left">
+					<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/ajay-shankar/" title="Posts by Ajay Shankar" rel="author">Ajay Shankar</a></span>
+					<div class="post-date">Oct 31</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>		
+		</div>
+		    </section>
+</div>	<div class="container">
+	<section class="col-md-12 clearfix top-buffer">
+		<div id="posts-1115990981" data-target="#posts-1115990981 .row" data-url="https://www.hardnewsmedia.com/wp-admin/admin-ajax.php?action=posts_query&post_type=post&post_status=publish&posts_per_page=2&cat=4&offset=12&style=grid66&id=posts-1115990981">	
+		<div class='row '>		
+			<div class="col-sm-6 posts-query-article bottom-buffer">
+				<div class="card">
+					<a href="https://www.hardnewsmedia.com/2021/07/a-killer-virus-fire-in-arctic-heat-wave-in-siberia-snow-in-the-desert/" class="card-img" style="background-image:url(https://www.hardnewsmedia.com/wp-content/uploads/2021/07/Antarctic_Iceberg_18-768x607.jpg);" rel="bookmark" title="A Killer Virus. Fire in Arctic, Heat Wave in Siberia, Snow in the desert!"></a>
+					<div class="card-block">
+						<h4 class="card-title red-text"><a href="https://www.hardnewsmedia.com/2021/07/a-killer-virus-fire-in-arctic-heat-wave-in-siberia-snow-in-the-desert/" rel="bookmark" title="Permanent Link to A Killer Virus. Fire in Arctic, Heat Wave in Siberia, Snow in the desert!">A Killer Virus. Fire in Arctic, Heat Wave in Siberia, Snow in the desert!</a></h4>
+						<div class="card-text">A global virus. New strains of diseases. New ecological catastrophes. All apocalyptic weather aberrations are man-made – a deadly consequence of the unbridled greed unleashed by globalisation and consumer society.</div>
+						<div class="media">
+							<div class="media-left">
+								<a href="https://www.hardnewsmedia.com">
+								   <img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' decoding='async'/>								</a>
+							</div>
+							<div class="media-body text-left">
+								<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/k-siddharth/" title="Posts by K Siddharth" rel="author">K Siddharth</a></span>
+								<div class="post-date">Jul 11</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+				
+			<div class="col-sm-6 posts-query-article bottom-buffer">
+				<div class="card">
+					<a href="https://www.hardnewsmedia.com/2020/06/to-bee-or-not-to-bee/" class="card-img" style="background-image:url(https://www.hardnewsmedia.com/wp-content/uploads/2020/06/Honey_bee_Apis_mellifera-768x512.jpg);" rel="bookmark" title="To Bee or Not to Bee"></a>
+					<div class="card-block">
+						<h4 class="card-title red-text"><a href="https://www.hardnewsmedia.com/2020/06/to-bee-or-not-to-bee/" rel="bookmark" title="Permanent Link to To Bee or Not to Bee">To Bee or Not to Bee</a></h4>
+						<div class="card-text">Despite the environment becoming pollution free, bees are declining rapidly in numbers, causing a tremor of worry across the globe. </div>
+						<div class="media">
+							<div class="media-left">
+								<a href="https://www.hardnewsmedia.com">
+								   <img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' decoding='async'/>								</a>
+							</div>
+							<div class="media-body text-left">
+								<span class="media-heading red-text"><a href="https://www.hardnewsmedia.com/author/anushree-kaushal/" title="Posts by Anushree Kaushal" rel="author">Anushree Kaushal</a></span>
+								<div class="post-date">Jun 01</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		</div>		</div>
+		    </section>
+</div>		<footer class="top-buffer">
+			<div class="container-fluid">
+			  <div class="row">
+				<div class="col-sm-offset-1 col-sm-2"><ul id="menu-footer-menu-1" class="list-unstyled "><li id="menu-item-362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-362"><a title="About us" href="https://www.hardnewsmedia.com/about-us/">About us</a></li>
+<li id="menu-item-363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-363"><a title="Latest Stories" href="http://stories">Latest Stories</a></li>
+</ul></div>				<div class="col-sm-2"><ul id="menu-footer-menu-2" class="list-unstyled "><li id="menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690"><a title="Archives" href="https://www.hardnewsmedia.com/archive/">Archives</a></li>
+<li id="menu-item-365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-365"><a title="Subscribe" href="http://subscribe">Subscribe</a></li>
+</ul></div>				<div class="col-sm-2"><ul id="menu-footer-menu-3" class="list-unstyled "><li id="menu-item-366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366"><a title="Support Here" href="http://support">Support Here</a></li>
+<li id="menu-item-367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-367"><a title="Team" href="http://team">Team</a></li>
+</ul></div>				<div class="social col-sm-offset-2 col-sm-3">
+				<form class="navbar-form clearfix" role="search">
+					<span class="social-icons">
+						<a href="https://www.facebook.com/HNFP.IN/"><i class="fa fa-facebook fa-outline"></i></a>
+						<a href="https://twitter.com/hnfp_in"><i class="fa fa-twitter fa-outline"></i></a>
+						<a href="whatsapp://send?text=https://www.hardnewsmedia.com" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
+					</span>
+					<a href=""><i class="fa fa-search"></i></a>
+					<div class="wgs_wrapper" id="wgs_widget_wrapper_id"><div class="gcse-searchbox-only" data-resultsUrl="https://www.hardnewsmedia.com/search_gcse/"></div></div>					<!--input type="text" name="s" class="search-query" placeholder="Search" /-->
+				</form>
+				</div>
+			</div>
+		  </div>
+		</footer>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/hardnews-theme\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<link rel='stylesheet' id='so-css-hardnews-theme-css' href='https://www.hardnewsmedia.com/wp-content/uploads/so-css/so-css-hardnews-theme.css?ver=1596511572' type='text/css' media='all' />
+<script type="text/javascript" id="google_cse_v2-js-extra">
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":" 004010872008763458080:hboz5kxzrj8 "};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.hardnewsmedia.com/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1" id="google_cse_v2-js"></script>
+<script type="text/javascript" src="https://www.hardnewsmedia.com/wp-content/themes/hardnews-theme/js/jquery3.2.1.min.js" id="jquery-js"></script>
+<script type="text/javascript" src="https://www.hardnewsmedia.com/wp-content/plugins/embed-any-document/js/pdfobject.min.js?ver=2.7.6" id="awsm-ead-pdf-object-js"></script>
+<script type="text/javascript" id="awsm-ead-public-js-extra">
+/* <![CDATA[ */
+var eadPublic = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.hardnewsmedia.com/wp-content/plugins/embed-any-document/js/embed-public.min.js?ver=2.7.6" id="awsm-ead-public-js"></script>
+<script type="text/javascript" src="https://www.hardnewsmedia.com/wp-content/plugins/posts-query-master/js/posts-query.js?ver=1.0.2" id="pf-script-js"></script>
+<script type="text/javascript" src="https://www.hardnewsmedia.com/wp-content/themes/hardnews-theme/js/script.js" id="custom-script-js"></script>
+<script type="text/javascript" src="https://www.hardnewsmedia.com/wp-content/themes/hardnews-theme/js/bootstrap.min.js" id="boostrap-js"></script>
+</body>
+</html>
+<style>
+	.wgs_wrapper{
+		display: inline-block;
+		vertical-align: middle;
+		width: 70px;
+	}
+	.wgs_wrapper .gsc-control-cse{ padding: 0;}
+	.wgs_wrapper .gsc-input-box, .wgs_wrapper .gsc-input-box .gsc-input{
+		background: transparent !important;
+		font: lighter medium/2 "Montserrat" !important;
+	}
+	.wgs_wrapper .gsc-search-button{ display: none; }
+	.wgs_wrapper .gsc-input-box td{ padding: 0 !important; }
+	.wgs_wrapper .gsib_b{ display: none; }
+
+</style>
+​<script>
+  window.onload = function(){
+		jQuery( '.gsc-input' ).attr( 'placeholder', 'Search' );
+  };
+</script>
+
+
