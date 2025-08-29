@@ -19,6 +19,7 @@ async def fetch(url: str, save_file: str = "output.txt") -> str:
             async with session.get(url, timeout=10) as response:
                 text = await response.text()
                 print ("request is send")    
+                print (f"✅ Fetched {len(text)} characters from {url}")
                 return text 
     except Exception as e:
         print(f"❌ Error fetching {url}: {e}")
