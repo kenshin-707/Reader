@@ -13,8 +13,10 @@ dependencies = [
     "newspaper3k>=0.2.8",
     "nltk>=3.9.1",
     "pandas>=2.3.1",
+    "pyaudio>=0.2.14",
     "pyttsx3>=2.99",
     "requests>=2.32.4",
     "selenium>=4.35.0",
+    "speechrecognition>=3.14.3",
     "webdriver-manager>=4.0.2",
 ]

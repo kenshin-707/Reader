@@ -1,42 +1,32 @@
-# web_fetcher.py
 import asyncio
 import aiohttp
 
-async def fetch(url: str, save_file: str = "output.txt") -> str:
-    """
-    Fetch the response text from a given URL asynchronously 
-    and save it to a file.
+DEFAULT_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+}
 
-    Args:
-        url (str): Website URL to fetch.
-        save_file (str): File name to save the response. Default = output.txt.
-
-    Returns:
-        str: First 500 characters of the response (for quick preview).
-    """
-    try:
-        async with aiohttp.ClientSession() as session:
-            async with session.get(url, timeout=10) as response:
-                text = await response.text()
-                print ("request is send")    
-                print (f"✅ Fetched {len(text)} characters from {url}")
-                return text 
-    except Exception as e:
-        print(f"❌ Error fetching {url}: {e}")
-        return ""
-
-
-async def main(url: str):
-    """
-    Wrapper to run fetch() with URL correction (auto-add https).
-    """
-    if not url.startswith("http"):
-        url = "https://" + url
-    return await fetch(url)
-
-
-def run(url: str):
-    """
-    Synchronous entry point to call from another script.
-    """
-    return asyncio.run(main(url))
+async def fetch_html(session: aiohttp.ClientSession, url: str, *, max_retries: int = 2) -> str | None:
+    """Download HTML with retries + timeout handling."""
+    for attempt in range(max_retries + 1):
+        try:
+            async with session.get(url, headers=DEFAULT_HEADERS) as resp:
+                if resp.status != 200:
+                    raise aiohttp.ClientResponseError(
+                        request_info=resp.request_info,
+                        history=resp.history,
+                        status=resp.status,
+                        message=f"HTTP {resp.status}",
+                        headers=resp.headers,
+                    )
+                return await resp.text()
+        except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+            if attempt < max_retries:
+                await asyncio.sleep(0.5 * (2 ** attempt))  # exponential backoff
+            else:
+                print(f"⚠️ Warning: failed to fetch {url}: {e}")
+                return None
