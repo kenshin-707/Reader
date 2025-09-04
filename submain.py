@@ -4,7 +4,7 @@ import aiohttp
 
 from req import fetch_html
 from filterz import parse_generic_headlines
-from voice_input import get_voice_input
+from handler_input import get_user_input
 
 
 async def scrape_site(name: str, url: str) -> dict:
@@ -40,12 +40,13 @@ async def scrape_site(name: str, url: str) -> dict:
 
 
 async def main():
-    name, url = get_voice_input()
+    name, url = get_user_input()
     result = await scrape_site(name, url)
     print("\n=== JSON Output ===")
-    for i, item in enumerate(result.get("items", []), start=1):
-      print(f"{i}. {item['title']}")
-      print(f"   {item['link']}\n")
+    #for i, item in enumerate(result.get("items", []), start=1):
+     # print(f"{i}. {item['title']}")
+     # print(f"   {item['link']}\n")
+    print(result)
 
 
 if __name__ == "__main__":
