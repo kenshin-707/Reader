@@ -22,9 +22,6 @@ from urllib.parse import urljoin, urlparse
 import aiohttp
 from bs4 import BeautifulSoup
 
-# -----------------------------
-# Config: known sites + parsers
-# -----------------------------
 
 async def parse_thehackernews(html: str, base_url: str) -> list[dict]:
     """
